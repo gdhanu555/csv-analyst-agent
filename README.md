@@ -5,7 +5,7 @@ ask questions in plain language, and keep asking follow-ups: the session remembe
 whole discussion. Answers come from **four fixed tools** — no code execution.
 
 - **Managed deployment:** `csv-analyst` — `01a20258-d1ff-7168-b24e-b86686a75628` (Mistral Cloud, hardened)
-- **Current agent version:** `01a20271-7a29-7796-ac91-c4211a2601ed`
+- **Agent version:** re-created on every `agents deploy` (latest: `01a2027b-f6d4-766f-91ae-7a3a6cef65be`); sessions survive redeploys
 - **Model:** `mistral-large-latest`
 - **Source:** https://github.com/gdhanu555/csv-analyst-agent
 
