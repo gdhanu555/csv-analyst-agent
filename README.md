@@ -1,5 +1,8 @@
 # csv-analyst — conversational CSV data analyst (Mistral Agents SDK, managed deployment)
 
+> **Using it rather than building it?** Start with [USER_GUIDE.md](USER_GUIDE.md) — quick start, example
+> questions, troubleshooting. This file covers the build and internals.
+
 A conversational data analyst you reach from **Mistral Vibe**. Paste a Google Drive link to a CSV,
 ask questions in plain language, and keep asking follow-ups: the session remembers the file and the
 whole discussion. Answers come from **four fixed tools** — no code execution.
